@@ -1,5 +1,8 @@
 React Todo App.
 
-# Technologies
+## Technologies
 
-TS, React, SCSS, 
+TS, React, SCSS.
+
+## Demo
+[Demo](https://vlobdam.github.io/react_todo-app/)
