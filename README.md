@@ -1,4 +1,4 @@
-React Todo App.
+CRUD app in React with API for dynamic task management.
 
 ## Technologies
 
